@@ -1,0 +1,9 @@
+.home-content{
+    margin: 100px;
+}
+
+.header-content{
+    position: static;
+    background: #666666;
+    padding: 10px;
+}
